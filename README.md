@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ahmed
+ 
+**Data Scientist, Robot learning & applied ML engineer.**  <br>
+M.Sc. Computer Science, Leibniz University Hannover· <br>
+Hannover, Germany
 
-<!--
-**Ahmed-AlGhosaini/Ahmed-AlGhosaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech stack
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,scikitlearn,opencv,ros,docker,linux,git,githubactions,azure,aws&perline=13" alt="Python, C++, PyTorch, TensorFlow, scikit-learn, OpenCV, ROS2, Docker, Linux, Git, GitHub Actions, Azure, AWS" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?logo=weightsandbiases&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+
+---
+
+### 📫 Contact
+ 
+Open to robot learning and ML engineering roles in Germany.  
+[LinkedIn](https://www.linkedin.com/in/ahmed-alghosaini) · ahmed.alghosaini@gmail.com
